@@ -1,0 +1,17 @@
+.profile-card {
+    border-radius: 10px;
+    background-color: #333333 !important;    
+}
+
+.profile-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;  
+}
+
+
+.social-button {
+    background-color: #61606069;
+    margin-bottom: 10px;
+
+}
